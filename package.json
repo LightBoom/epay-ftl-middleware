@@ -9,6 +9,14 @@
   "keywords": [
     "freemarker"
   ],
+  "bugs": {
+    "url": "https://github.com/LightBoom/epay-ftl-middleware/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightBoom/epay-ftl-middleware.git"
+  },
+  "homepage": "https://github.com/LightBoom/epay-ftl-middleware#readme",
   "author": "jxl",
   "license": "MIT"
 }
