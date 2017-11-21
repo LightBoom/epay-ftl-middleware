@@ -1,0 +1,14 @@
+{
+  "name": "epay-ftl-middleware",
+  "version": "0.0.1",
+  "description": "middleware to render files include mock files and freemarker files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freemarker"
+  ],
+  "author": "jxl",
+  "license": "MIT"
+}
