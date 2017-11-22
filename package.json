@@ -1,6 +1,6 @@
 {
   "name": "epay-ftl-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "middleware to render files include mock files and freemarker files",
   "main": "index.js",
   "scripts": {

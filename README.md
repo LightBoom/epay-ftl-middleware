@@ -80,7 +80,8 @@ var router = {
   }
 };
 
-app.use('/cdnStaticSource20151123', express.static('cdnStaticSource20151123'));
+// 静态映射
+app.use('/cdn_static', express.static('cdn_static'));
 app.use(ftlMiddleWare({
     router: router
 }));
